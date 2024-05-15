@@ -6,6 +6,8 @@ Install dependencies.
 pip install -r requirements.txt
 ```
 
+Replace "YOUR-API-KEY" in files query_data.py and create_database.py with OpenAI API key.
+
 Create the Chroma DB.
 
 ```python
